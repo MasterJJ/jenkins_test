@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
- printf("hello jenkins!!");
+int main()
+  error printf("hello jenkins!!");
  return 0;
 }
